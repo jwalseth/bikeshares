@@ -1,0 +1,44 @@
+Hello James Walseth!
+
+Thanks for signing up to OPEN DATA ECOBICI.
+
+Click on the following link to activate your account :.
+
+https://www.ecobici.df.gob.mx/es/informacion-del-servicio/open-data/api_access_confirm_form?email=jim.walseth%40gmail.com&token=1459184016d68a2325341611fb7f
+
+ECOBICI the smart way to move.
+
+——
+
+Thank you, 
+
+Your access has been confirmed, your username is: client_id = 570_b025a2lkk2gck8ck48ks00owoo0gog4c0440ksscw8kwckwsg 
+
+For security, you will receive another email your password. 
+
+ECOBICI, the smart way to get around.
+
+—
+
+
+For safety this mail is sent independently. 
+
+Your Password: client_secret = 41va8erhge0w0s0wgw8wswo48gcgcck4wogsg44s4wo4c4844w 
+
+Now you can request the information available at the following URL: 
+
+https://www.ecobici.df.gob.mx/es/informacion-del-servicio/open-data/ 
+
+ECOBICI The smart way to move.
+
+https://pubsbapi.smartbike.com/oauth/v2/token?client_id=570_b025a2lkk2gck8ck48ks00owoo0gog4c0440ksscw8kwckwsg&client_secret=41va8erhge0w0s0wgw8wswo48gcgcck4wogsg44s4wo4c4844w&grant_type=client_credentials
+
+https://pubsbapi.smartbike.com/oauth/v2/token?client_id=570_b025a2lkk2gck8ck48ks00owoo0gog4c0440ksscw8kwckwsg&client_secret=41va8erhge0w0s0wgw8wswo48gcgcck4wogsg44s4wo4c4844w&grant_type=client_credentials
+
+{"access_token":"MGRiZmNiNDUyNGZmZTlkMThjZGVmMTY5NTNkYTJiN2RmYjgzM2RjM2YxMmM2ZTgxMDFjYTRhMGViNTQ2YTYyZQ","expires_in":3600,"token_type":"bearer","scope":null,"refresh_token":"NTk2NTI5ODk1Y2ZjZmIyNzc0NGE2M2Y3YTlhZjVhNTkwZGMxY2UyYmZiNjJlOWZlODM4MTI5ZjYzZjlmMDNjYQ"}
+
+https://pubsbapi.smartbike.com/api/v1/api_section/api_method?access_token=MGRiZmNiNDUyNGZmZTlkMThjZGVmMTY5NTNkYTJiN2RmYjgzM2RjM2YxMmM2ZTgxMDFjYTRhMGViNTQ2YTYyZQ
+
+https://pubsbapi.smartbike.com/api/v1/stations.json?access_token=MGRiZmNiNDUyNGZmZTlkMThjZGVmMTY5NTNkYTJiN2RmYjgzM2RjM2YxMmM2ZTgxMDFjYTRhMGViNTQ2YTYyZQ
+
+https://public.tableau.com/shared/QQCR5QKFC?:display_count=yes
