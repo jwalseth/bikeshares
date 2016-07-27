@@ -1,0 +1,40 @@
+About 10 people came to the workshop at SOTM US titled:
+
+"Let's add bike-share stations to OSM" led by Jim Walseth
+
+Jim lead the group in an agile method call 'lean coffee' in which
+everyone wrote down ideas of how to proceed in the form of tasks
+on sticky notes. What follows is a aggregation of those notes, in 
+groupings that fell out.
+
+These could be turned into github issues.
+
+Immediate actions for the workshop [DONE]
+- Pick a city & bike share to start with [DONE, SEATTLE]
+- Step by step Demo fo the process of adding a bike station [DONE]
+- Do wallthrough of adding a station (manually [second vote]
+
+Data acquisition
+- Inventory bike-share station data & load into Github
+- Inventory existing tags for bike shares (query OSM)
+
+Bulk loading
+- build in-depth knowledge of import best practices (see LA, NYC building import case studies)
+- identify how automation could be implemented for mass imports [2nd vote]
+- would this project be submitted to OSM-tasker or something similar for human curation?
+
+Outreach
+- How to get bike-share companies to add OSM data
+- How to get OpenCylceMap improvements so it's more widely used by bicyclists
+- emphasize Bike Shares in Cycle Map
+- Create and easy way to see bike-share stations on OSM
+
+Tagging scheme
+- Identify ways to build local knowledge of different kinds & conventions around bike share amenities
+- How do we differentiate between rental shops and bike share stations. [RESOLVED]
+- Helmet availability
+- Evaluate the existing 'tag' scheme, are changes needed?
+
+Routing
+- Set up for routing to/from bike-share
+- elevation gain by route
