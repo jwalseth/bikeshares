@@ -1,1 +1,45 @@
-Bike Share working group of OSM. Proceedings
+Bike Share working group of OSM. Proceedings of 7/25/2016 at SOTM US
+
+About 10 people came to the workshop at SOTM US titled:
+
+"Let's add bike-share stations to OSM" led by Jim Walseth
+
+Included in his introduction was an invitation to navigate to his shared folder on Dropbox,
+using this URL http://tinyurl.com/sotm16bikeshares and open the file 
+"Bike Shares working group for OSM 'boot strap' info.txt"
+
+Unfortunately Jim had failed to upload the file to the folder, sorry! It is there now.
+
+The contents are reproduced here for convenience:
+
+    Bike Shares working group for OSM 'boot strap' information for July 2016
+
+    The dropbox folder containing this file:
+    http://tinyurl.com/sotm16bikeshares
+
+    Fearless leader
+    Jim Walseth
+    jim.walseth@gmail.com
+
+    His github for BSWG
+    https://github.com/jwalseth/bikeshares
+
+    The wikipedia page with list of bike shares
+    https://en.wikipedia.org/wiki/List_of_bicycle-sharing_systems
+
+    The current OSM tagging scheme for bike shares
+    http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dbicycle_rental
+
+
+After introductions, Jim and the attendees proceeded to 'self organize' using the lean coffee
+technique. Each person wrote down on a sticky pad a few ideas for how to tackle the problem.
+
+The ideas were organized and will be summarized in a separate document on this github.
+
+One concrete step was taken with the help fo Maxwell Burton. There was a demonstration of 
+adding one bike share station using the "ID editor". A Pronto! [the Seattle bike share] station  
+near Children's Hospital was added.
+
+Thank you everyone who came and gamely participated in the self-organization exercise.
+
+This concludes the proceedings for 7/25/2016 at SOTM US.
